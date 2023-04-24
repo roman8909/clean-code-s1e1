@@ -38,10 +38,12 @@ body {
   margin: 0;
   padding: 0px;
 }
-li, .subtitle {
+li,
+.subtitle {
   list-style: none;
 }
-input,button{
+input,
+button{
   outline: none;
 }
 button {
